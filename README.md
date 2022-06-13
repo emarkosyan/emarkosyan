@@ -5,7 +5,7 @@
 
 ### Pinned reposetories
 
-### Social Media
+### :iphone: Social Media
 
 ### :hammer_and_wrench: Languages and Tools:
 
@@ -39,6 +39,6 @@
 
 ### :fire: My Github Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emarkosyan&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emarkosyan&theme=darcula&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emarkosyan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
