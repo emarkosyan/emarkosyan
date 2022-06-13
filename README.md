@@ -1,4 +1,4 @@
-[![Header](https://imgur.com/a/4bW0HKb)]
+![Header](https://github.com/emarkosyan/emarkosyan/blob/main/assets/header.jpg)
 
 ### Hi there 👋
 About me
