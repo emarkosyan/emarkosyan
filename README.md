@@ -1,13 +1,45 @@
 ![Header](https://github.com/emarkosyan/emarkosyan/blob/main/assets/header.jpg)
 
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/emarkosyan/emarkosyan"/> 
+ <img src="https://badges.pufler.dev/repos/emarkosyan"/>
+ <img src="https://badges.pufler.dev/commits/monthly/emarkosyan" />
+
+</p>
+
 ### Hi there 👋
 
 
-### Pinned reposetories
+<h2 align="center">
+  :pushpin: Pinned reposetories
+</h2>
 
-### :iphone: Social Media
+<a href="https://github.com/emarkosyan/Earth-Defence">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emarkosyan&repo=Earth-Defence&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
-### :hammer_and_wrench: Languages and Tools:
+<br>
+
+<a href="https://github.com/emarkosyan/pacman-ai">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emarkosyan&repo=pacman-ai&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<h2 align="center">
+  :iphone: Social Media
+</h2>
+
+<p align="center">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
+
+
+<h2 align="center">
+  :hammer_and_wrench: Languages and Tools:
+</h2>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
@@ -25,7 +57,9 @@
 
 ---
 
-### :books: Learning:
+<h2 align="center">
+  :books: Learning:
+</h2>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -37,8 +71,24 @@
 
 ---
 
-### :fire: My Github Stats:
+<h2 align="center">
+  My Contribution Graph 
+</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/emarkosyan/emarkosyan/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emarkosyan&theme=darcula&show_icons=true)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emarkosyan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">
+  :fire: My Github Stats:
+</h2>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=emarkosyan&show_icons=true&theme=darcula&line_height=27" >
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=emarkosyan&hide=html,css,java,shaderlab,kotlin,hlsl&theme=darcula">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=emarkosyan&show_icons=true&layout=compact&theme=radical&line_height=0" />
+</p> 
