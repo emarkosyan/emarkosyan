@@ -16,6 +16,8 @@
   :pushpin: Pinned reposetories
 </h2>
 
+
+
 <a href="https://github.com/emarkosyan/Earth-Defence">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emarkosyan&repo=Earth-Defence&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -28,8 +30,6 @@
 <h2 align="center">
   :iphone: Social Media
 </h2>
-
-<br>
 
 <p align="center">
 <!--<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
@@ -86,7 +86,6 @@
   :fire: My Github Stats:
 </h2>
 
-<br>
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=emarkosyan&show_icons=true&theme=darcula&line_height=27" >
