@@ -83,6 +83,14 @@
 ---
 
 <h2 align="center">
+  :man_technologist: Certificates
+</h2>
+
+- [Java. Base Course](https://stepik.org/cert/1859739)
+
+---
+
+<h2 align="center">
   :fire: My Github Stats
 </h2>
 
@@ -90,9 +98,21 @@
 | ------------- | ------------- |
 
 <h2 align="center">
-  :fire: LeetCode stats
+  :man_technologist: LeetCode stats
 </h2>
 
 <p align = "center">
   <img  src = "https://leetcard.jacoblin.cool/emarkosyan?theme=nord&font=Sarabun">
 </p>
+
+---
+
+<h2 align="center">
+  :man_technologist: Codewars
+</h2>
+
+<p align = "center">
+  <img  src = "https://www.codewars.com/users/emarkosyan/badges/large">
+</p>
+
+---
