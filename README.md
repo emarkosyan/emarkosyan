@@ -13,7 +13,7 @@
 ---
 
 <h2 align="center" style="text-decoration: none;">
-  :pushpin: Pinned reposetories
+  :pushpin: Pinned reposetories։
 </h2>
 
 
@@ -28,7 +28,7 @@
 --- 
 
 <h2 align="center">
-  :iphone: Social Media
+  :iphone: Social Media։
 </h2>
 
 <p align="center">
@@ -45,8 +45,9 @@
   :hammer_and_wrench: Languages and Tools:
 </h2>
 
+
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -55,7 +56,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;-->
+
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=java,maven,html,css,js,nodejs,git,gitlab,github,mysql,postgres,firebase,neovim,idea,vscode" />
+  </p>
 </div>
 
 ---
@@ -65,16 +70,20 @@
 </h2>
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React.js" width="40" height="40"/>&nbsp;
+  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;-->
+
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=react,spring,hibernate,bots,docker,kafka,kubernetes,linux,ts,mongo,kotlin" />
+  </p>
 </div>
 
 ---
 
 <h2 align="center">
-  My Contribution Graph 
+  My Contribution Graph։
 </h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/emarkosyan/emarkosyan/output/github-contribution-grid-snake.svg" alt="snake"></center>
@@ -83,7 +92,7 @@
 ---
 
 <h2 align="center">
-  :man_technologist: Certificates
+  :man_technologist: Certificates։
 </h2>
 
 - [Java. Base Course](https://stepik.org/cert/1859739)
@@ -91,14 +100,14 @@
 ---
 
 <h2 align="center">
-  :fire: My Github Stats
+  :fire: My Github Stats։
 </h2>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=emarkosyan&show_icons=true&include_all_commits=true&theme=darcula&hide_border=true" alt="Eriks's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emarkosyan&hide=html,css,shaderlab,kotlin,hlsl&layout=compact&theme=darcula&hide_border=true" /> |
 | ------------- | ------------- |
 
 <h2 align="center">
-  :man_technologist: LeetCode stats
+  :man_technologist: LeetCode stats։
 </h2>
 
 <p align = "center">
@@ -108,7 +117,7 @@
 ---
 
 <h2 align="center">
-  :man_technologist: Codewars
+  :man_technologist: Codewars։
 </h2>
 
 <p align = "center">
