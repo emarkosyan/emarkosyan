@@ -12,7 +12,7 @@
 
 ---
 
-<h2 align="center">
+<h2 align="center" style="text-decoration: none;">
   :pushpin: Pinned reposetories
 </h2>
 
@@ -23,7 +23,7 @@
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=emarkosyan&repo=pacman-ai&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
----
+--- 
 
 <h2 align="center">
   :iphone: Social Media
