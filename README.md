@@ -92,7 +92,7 @@
 ---
 
 <h2 align="center">
-  :man_technologist: Certificates։
+  :receipt: Certificates։
 </h2>
 
 - [Java. Base Course](https://stepik.org/cert/1859739)
