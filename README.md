@@ -2,9 +2,9 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/emarkosyan/emarkosyan"/> 
- <img src="https://badges.pufler.dev/repos/emarkosyan"/>
- <img src="https://badges.pufler.dev/commits/monthly/emarkosyan" />
+ <img src="https://badges.strrl.dev/years/emarkosyan"/> 
+ <img src="https://badges.strrl.dev/repos/emarkosyan"/>
+ <img src="https://badges.strrl.dev/commits/all/emarkosyan" />
 
 </p>
 
