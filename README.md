@@ -1,12 +1,12 @@
 ![Header](https://github.com/emarkosyan/emarkosyan/blob/main/assets/header.jpg)
 
-<p align="center">
+<!--<p align="center">
  
  <img src="https://badges.pufler.dev/visits/emarkosyan/emarkosyan"/> 
  <img src="https://badges.pufler.dev/repos/emarkosyan"/>
  <img src="https://badges.pufler.dev/commits/monthly/emarkosyan" />
 
-</p>
+</p>-->
 
 ### Hi there 👋
 
