@@ -83,15 +83,16 @@
 ---
 
 <h2 align="center">
-  :fire: My Github Stats:
+  :fire: My Github Stats
 </h2>
 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=emarkosyan&show_icons=true&include_all_commits=true&theme=darcula&hide_border=true" alt="Eriks's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emarkosyan&hide=html,css,shaderlab,kotlin,hlsl&layout=compact&theme=darcula&hide_border=true" /> |
+| ------------- | ------------- |
+
+<h2 align="center">
+  :fire: LeetCode stats
+</h2>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=emarkosyan&show_icons=true&theme=darcula&line_height=27" >
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=emarkosyan&hide=html,css,java,shaderlab,kotlin,hlsl&theme=darcula">
+  <img  src = "https://leetcard.jacoblin.cool/emarkosyan?theme=nord&font=Sarabun">
 </p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=emarkosyan&show_icons=true&layout=compact&theme=radical&line_height=0" />
-</p> 
