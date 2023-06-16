@@ -112,11 +112,3 @@
 </p>
 
 ---
-
-<h2 align="center">
-  :telephone_receiver: Contacts։
-</h2>
-
-- Telegram: @cerbinnn
-
----
