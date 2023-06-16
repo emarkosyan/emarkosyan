@@ -8,8 +8,11 @@
 
 </p>
 
-### Hi there 👋
+# Hi there! 👋
+**I'm Erik** - I'm self-taught BackEnd developer with passion in Computer Science 💻
 
+- Entry Level Specialist degree in REU (2018-2022)
+- School 21 student (@pumpkinc) (2023-Now)
 ---
 
 <h2 align="center" style="text-decoration: none;">
@@ -47,19 +50,8 @@
 
 
 <div>
-  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;-->
-
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,maven,html,css,js,nodejs,git,gitlab,github,mysql,postgres,firebase,neovim,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,bash,c,cpp,js,maven,gradle,mysql,postgres,firebase,idea" />
   </p>
 </div>
 
@@ -70,13 +62,8 @@
 </h2>
 
 <div>
-  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;-->
-
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,spring,hibernate,bots,docker,kafka,kubernetes,linux,ts,mongo,kotlin" />
+    <img src="https://skillicons.dev/icons?i=react,spring,go,hibernate,bots,docker,kafka,kubernetes,linux,ts,mongo,kotlin,jenkins" />
   </p>
 </div>
 
