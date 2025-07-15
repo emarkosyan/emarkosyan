@@ -49,7 +49,7 @@
 
 <div>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,bash,c,cpp,js,maven,gradle,mysql,postgres,firebase,idea" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,bash,c,cpp,maven,gradle,mysql,postgres,docker,kafka,kubernetes,linux," />
   </p>
 </div>
 
@@ -61,7 +61,7 @@
 
 <div>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,spring,go,hibernate,bots,docker,kafka,kubernetes,linux,ts,mongo,kotlin,jenkins" />
+    <img src="https://skillicons.dev/icons?i=react,go,bots,ts,mongo,kotlin,jenkins" />
   </p>
 </div>
 
@@ -77,14 +77,6 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/emarkosyan/emarkosyan/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
----
-
-<h2 align="center">
-  :receipt: Certificates։
-</h2>
-
-- [Java. Base Course](https://stepik.org/cert/1859739)
 
 ---
 
